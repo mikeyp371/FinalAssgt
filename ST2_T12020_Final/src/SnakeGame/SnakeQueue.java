@@ -1,5 +1,5 @@
 package SnakeGame;
-//ok
+
 import java.awt.Graphics;
 import java.util.LinkedList;
 import java.util.Queue;
