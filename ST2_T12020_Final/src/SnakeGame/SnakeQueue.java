@@ -3,7 +3,7 @@ package SnakeGame;
 import java.awt.Graphics;
 import java.util.LinkedList;
 import java.util.Queue;
-
+//ok
 
 public class SnakeQueue {
   Queue q = new LinkedList<>();
